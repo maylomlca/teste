@@ -1,0 +1,87 @@
+html{
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+p{
+	color: white;
+	font-size: 15px;
+	font-family: Arial;
+}
+body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url(img/wallpaper.jpg);
+	background-size: cover;
+	display: table;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+    text-decoration: none;
+	color:#ffffff;
+	background-color:#1C1C1C;
+	height:60px;
+	padding:20px;
+
+}
+footer{
+	clear: both;
+	background-color:#1C1C1C;
+	color: #ffffff;
+	height: ;
+	text-align: center;
+	padding: 20px;
+}
+h1{
+	text-shadow: 1px 1px 1px #111111;
+	color:#ffffff;
+	text-align:center;
+	margin: 0 0 50px 0 ;
+}
+hr{
+	color: #1C1C1C;
+}
+p{
+	color: #ffffff;
+	text-align:center;
+}
+.borda {
+    border: 6px solid;
+    border-color: #1C1C1C;
+
+}
+.text-center{
+text-align: center!important;
+}
+
+#total{
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-simple-technology-business-line-image_23260.jpg);
+	/*background-color: #4F4F4F;*/
+	background-size: 100%;
+	min-height: 500px;
+}
+#name{
+    float: left;
+    margin-top: 15px;
+    border-right: 20px;
+    text-align: right;
+    margin-right: 20px 20px;
+
+}
+#menu{
+	float: right;
+	margin-top: 20px; 
+}
+#menu a{
+    padding:20px 20px;
+    text-decoration: none;
+    color: #ffffff;
+    text-shadow: 1px 1px #111111 ;
+}
+#menu a=hover{
+	}  
